@@ -16,7 +16,7 @@ pylint==1.8.3
 pytest==3.5.0
 pytest-cov==2.5.1
 six==1.11.0
-wrapt==1.10.11
+wrapt==1.12.1
 requests==2.20.1
 flask==1.0.2
 freezegun==0.3.11
