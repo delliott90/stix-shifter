@@ -18,5 +18,5 @@ pytest-cov==2.5.1
 six==1.11.0
 wrapt==1.10.11
 requests==2.20.1
-flask==1.0.2
+flask==1.1.2
 freezegun==0.3.11
